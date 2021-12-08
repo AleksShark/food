@@ -1,0 +1,7 @@
+.inner-testimonial > img{
+	max-width: 35%;
+	margin:0 auto 15px;
+	opacity: 0;
+	-webkit-transition:all 1.3s linear;
+	transition:all 1.3s linear;
+}

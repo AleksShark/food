@@ -1,0 +1,7 @@
+githowto.com - сайт по работе с ним 
+инициализация git init
+git config --local user.name "Shark"
+
+добавление пользователя глобально
+git config --global user.name "Shark"
+git config --global user.email l.gaidukov@yandex.ru
